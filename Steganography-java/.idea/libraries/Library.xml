@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Library">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Steganography-main/Library/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Steganography-main/Library/mail.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
